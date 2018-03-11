@@ -1,2 +1,2 @@
-# Struts-all-jar-files
+# Spring-all-jar-files
 contains all jar files required for spring
